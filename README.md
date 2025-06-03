@@ -59,7 +59,7 @@ Height Calculation:
 
 -Path 3→5→4 = 2 edges
 
-# -Path 3→5→6→7 = 3 edges (longest path)
+-Path 3→5→6→7 = 3 edges (longest path)
 
 Therefore, Height = 3
 
@@ -107,7 +107,7 @@ Just run:
         
         💾 Space Complexity: O(h)
 
-        where h = height of tree
+               where h = height of tree
 
 ## 📅 Completed On:
 
